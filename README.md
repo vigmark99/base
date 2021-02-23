@@ -60,4 +60,4 @@ some **bold text thingy**
 >
 > END
 
-ez egy merge conflict
+ez egy merge conflict A
