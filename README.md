@@ -60,4 +60,4 @@ some **bold text thingy**
 >
 > END
 
-ez egy merge conflict A
+ez ám a merge conflict! B
