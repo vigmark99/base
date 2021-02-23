@@ -59,3 +59,5 @@ some **bold text thingy**
 > megez
 >
 > END
+
+ez egy merge conflict
